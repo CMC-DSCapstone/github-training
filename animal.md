@@ -15,4 +15,4 @@ Tiger
 
 Spider
 
-Penguin # This is new
+Penguin
