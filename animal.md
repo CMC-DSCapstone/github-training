@@ -7,10 +7,10 @@ Duck
 
 Eagle
 
-# bug # Ant # look at this line 
+Ant
 
 Lion
 
 Tiger
 
-# fixed # Spider # this line is suspicious (JP)
+Spider
