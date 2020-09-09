@@ -7,8 +7,6 @@ Duck
 
 Eagle
 
-Ant
-
 Lion
 
 Tiger
