@@ -7,12 +7,8 @@ Duck
 
 Eagle
 
-Ant
-
 Lion
 
 Tiger
-
-Spider
 
 Penguin
