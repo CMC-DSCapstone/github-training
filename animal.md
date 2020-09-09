@@ -11,6 +11,8 @@ Lion
 
 Tiger
 
-Spider # This line is strange (JP)
+Spider
 
-Penguin
+#=======
+#>>>>>>> bugFix2
+#Penguin
