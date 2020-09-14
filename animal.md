@@ -11,6 +11,5 @@ Lion
 
 Tiger
 
-Spider # This line is strange (JP)
 
 Penguin
