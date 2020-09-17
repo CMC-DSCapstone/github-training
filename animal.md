@@ -13,6 +13,4 @@ Lion
 
 Tiger
 
-Spider
-
 Penguin
