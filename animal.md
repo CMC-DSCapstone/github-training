@@ -11,8 +11,6 @@ Lion
 
 Tiger
 
-Spider
-
 #=======
 #>>>>>>> bugFix2
 #Penguin
